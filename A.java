@@ -29,4 +29,5 @@ public class A {
     public void MA3() {
         System.out.println("Alteração a classe A partir do clone");
     }
+
 }
